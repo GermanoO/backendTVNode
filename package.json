@@ -1,0 +1,22 @@
+{
+  "name": "project_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GGHBarros",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "moment": "^2.20.1",
+    "mongoose": "^5.0.0-rc2",
+    "node-cron": "^1.2.1",
+    "request": "^2.83.0"
+  }
+}
